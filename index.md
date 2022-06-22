@@ -2,10 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Extracting Data From APIs and Analysis of Dance Competition Data](https://github.com/nataliecpe/World-Dance-Sport)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
