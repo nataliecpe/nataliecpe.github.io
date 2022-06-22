@@ -4,13 +4,13 @@
 
 ### Projects 
 
-[Extracting Data From APIs and Analysis of Dance Competition Data](https://github.com/nataliecpe/World-Dance-Sport)
+-[Extracting Data From APIs and Analysis of Dance Competition Data](https://github.com/nataliecpe/World-Dance-Sport)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+-[Produce Price and Nutrition Analysis](https://github.com/nataliecpe/USDA-data)
 
----
+-[Scraping the UC Davis Course Catalog](https://github.com/nataliecpe/catalog_scraper)
+  [Tableau Visualization](https://public.tableau.com/app/profile/natalie.perillo/viz/UCDavisCourseCatalog/Dashboard1)
+
 
 ### Category Name 2
 
