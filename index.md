@@ -4,21 +4,20 @@
 
 ### Projects 
 
--[Extracting Data From APIs and Analysis of Dance Competition Data](https://github.com/nataliecpe/World-Dance-Sport)
+- [Extracting Data From APIs and Analysis of Dance Competition Data](https://github.com/nataliecpe/World-Dance-Sport)
 
--[Produce Price and Nutrition Analysis](https://github.com/nataliecpe/USDA-data)
+- [Produce Price and Nutrition Analysis](https://github.com/nataliecpe/USDA-data)
 
--[Scraping the UC Davis Course Catalog](https://github.com/nataliecpe/catalog_scraper)
-  [Tableau Visualization](https://public.tableau.com/app/profile/natalie.perillo/viz/UCDavisCourseCatalog/Dashboard1)
+- [Scraping the UC Davis Course Catalog](https://github.com/nataliecpe/catalog_scraper)
+  
+    [Tableau Visualization](https://public.tableau.com/app/profile/natalie.perillo/viz/UCDavisCourseCatalog/Dashboard1)
+    
+- [SQL Queries on SF Fire Department Incidents Dataset](https://github.com/nataliecpe/SF_Fire_Department/blob/main/SF_fires.sql)
 
+    [Tableau Visualization](https://public.tableau.com/app/profile/natalie.perillo/viz/SFFireDepartmentIncidents/Dashboard1)
+    
+- [Chicago Public Libraries Tableau Dashboard](https://public.tableau.com/app/profile/natalie.perillo/viz/ChicagoPublicLibraries/Dashboard1)
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
