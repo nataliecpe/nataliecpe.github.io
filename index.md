@@ -2,7 +2,7 @@
 
 ---
 
-## Projects 
+## Data Projects 
 
 - ### Exploring Characteristics Related to DanceSport Competition Performance Outcomes
     
