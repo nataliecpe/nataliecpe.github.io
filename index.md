@@ -25,7 +25,7 @@
     [Tableau Visualization](https://public.tableau.com/app/profile/natalie.perillo/viz/UCDavisCourseCatalog/Dashboard1)
     
 
-- ### Exploring Characteristics Related to Amount of Fire Incidents in San Francisco
+- ### Exploring Characteristics Related to Prevalance of Fire Incidents in San Francisco
 
     [SQL Queries on SF Fire Department Incidents Dataset](https://github.com/nataliecpe/SF_Fire_Department/blob/main/SF_fires.sql)
 
